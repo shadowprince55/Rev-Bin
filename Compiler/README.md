@@ -11,3 +11,9 @@ This is a simple 4 step process:
 ---
 
 Credit to this [website](https://citw.dev/tutorial/create-your-own-compiler?p=10)
+
+---
+Instructions:
+* Install node
+* To run program:\
+   `node index`
